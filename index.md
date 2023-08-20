@@ -3,3 +3,9 @@
 ```python
 print("it's Time to code!")
 ```
+
+Wee need to complete the following taks during this course
+
+- [x] Create a Pull Request
+- [ ] Complete Course
+- [ ] Apply your Learnings
